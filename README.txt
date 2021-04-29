@@ -34,5 +34,4 @@ Functions:
 - deletes one by one the elements until only one is left, the safe position for the particular
 set of data
 Some datasets and examples:
-1. The simple situation, where the step is 1.
-2.
+
